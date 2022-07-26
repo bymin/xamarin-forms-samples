@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xamarin.Forms.Maps.Android", "Xamarin.Forms.Maps.Android.csproj", "{29AEE8B3-0B53-4F41-B881-23604B5E293F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xamarin.Forms.Maps", "..\ClassLibrary1\Xamarin.Forms.Maps.csproj", "{28E598DF-CBEB-4CCB-B0C7-785153D71B0F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithMaps", "..\WorkingWithMaps\WorkingWithMaps\WorkingWithMaps.csproj", "{98309DD1-6A80-4729-AB83-3DDDF1ACE1EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithMaps.Android", "..\WorkingWithMaps\WorkingWithMaps.Android\WorkingWithMaps.Android.csproj", "{9E84F0D9-45C6-4FE7-9E9C-888F5A2446EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29AEE8B3-0B53-4F41-B881-23604B5E293F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29AEE8B3-0B53-4F41-B881-23604B5E293F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29AEE8B3-0B53-4F41-B881-23604B5E293F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29AEE8B3-0B53-4F41-B881-23604B5E293F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28E598DF-CBEB-4CCB-B0C7-785153D71B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E598DF-CBEB-4CCB-B0C7-785153D71B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E598DF-CBEB-4CCB-B0C7-785153D71B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E598DF-CBEB-4CCB-B0C7-785153D71B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98309DD1-6A80-4729-AB83-3DDDF1ACE1EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98309DD1-6A80-4729-AB83-3DDDF1ACE1EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98309DD1-6A80-4729-AB83-3DDDF1ACE1EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98309DD1-6A80-4729-AB83-3DDDF1ACE1EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E84F0D9-45C6-4FE7-9E9C-888F5A2446EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E84F0D9-45C6-4FE7-9E9C-888F5A2446EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E84F0D9-45C6-4FE7-9E9C-888F5A2446EA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9E84F0D9-45C6-4FE7-9E9C-888F5A2446EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E84F0D9-45C6-4FE7-9E9C-888F5A2446EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E84F0D9-45C6-4FE7-9E9C-888F5A2446EA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0355B109-FAFB-47A9-B6A8-36B9D8FACC3D}
+	EndGlobalSection
+EndGlobal
